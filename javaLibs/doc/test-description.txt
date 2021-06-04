@@ -1,0 +1,34 @@
+3. Pârbrauda atðíirîbu starp vienu un to paðu virsotòu atðíirîgu savienojumu.
+-----------------
+agraph3 - n burts
+agraph3 - u burts
+
+4. 
+-----------------
+agraph4 - H burts
+bgraph4 - N burts
+
+5. Atvasinâjums 3. testa piemçram.
+-----------------
+agraph5 - stilizçts i burts
+bgraph5 - stilizçta ! zîme
+
+6. 
+-----------------
+agraph6 - F burts
+bgraph6 - E burts
+
+7. Divas vienâdas lînijas, bet viena kâdâ punktâ ir pârtraukta.
+-----------------
+agraph7 - nepârtrauktâ lînija
+bgraph7 - pârtrauktâ lînja
+
+8.
+-----------------
+agraph8 - O burts
+bgraph8 - C burts
+
+9. Vienâdi grafi, bet vienam no grafam neliels ðíautnes pagarinâjums
+-----------------
+agraph9 - h burts
+bgraph9 - n burts
